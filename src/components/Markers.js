@@ -39,6 +39,7 @@ const Markers = (props) => {
         return () => {
             container.removeLayer(layerRef.current);
         }
+        // eslint-disable-next-line
     }, []);
     
    
