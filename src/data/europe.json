@@ -1,0 +1,290 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+         {
+            "type": "Feature",
+            "properties": {
+                "location_id": "11",
+                "placename": "Des Moines, IA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-93.6250, 41.5868] 
+            }
+        }, 
+        {
+            "type": "Feature",
+            "properties": {
+                "location_id": "12",
+                "placename": "Chania, Greece",
+                "image": "https://www.greecetravel.com/crete/chania/chania-top2.jpg",
+                "todo": [
+                    "Old Venetian Harbour",
+                    "Seawall and Lighthouse",
+                    "Balos Beach",
+                    "Maritime Museum of Crete"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [24.0180, 35.5138] 
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "location_id": "13",
+                "placename": "Athens, Greece",
+                "image": "https://www.mensjournal.com/wp-content/uploads/2019/10/AthensGreece.jpg?quality=86&strip=all",
+                "todo": [
+                    "Acropolis Monuments",
+                    "Acropolis Museum",
+                    "Plaka",
+                    "Monastiraki Square"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [23.7275, 37.9838] 
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "location_id": "14",
+                "placename": "Zakynthos, Greece",
+                "image": "https://www.flyingandtravel.com/wp-content/uploads/2017/11/best-beaches-in-zakynthos-greece-navagio.jpg",
+                "todo": [
+                    "Shipwreck Beach",
+                    "Zákynthos Town",
+                    "National Marine Park",
+                    "MV Panagiotis"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [20.8999, 37.7870] 
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "location_id": "15",
+                "placename": "Rome, Italy",
+                "image": "https://www.theitalianontour.com/wp-content/uploads/2020/01/best-time-of-year-to-visit-rome-italy-min.jpg",
+                "todo": [
+                    "Colosseum",
+                    "St. Peters Square",
+                    "Pantheon",
+                    "Trevi Fountain"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [12.4964, 41.9028] 
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "location_id": "16",
+                "placename": "Siena, Italy",
+                "image": "https://www.traveller.com.au/content/dam/images/g/z/9/i/u/n/image.related.articleLeadwide.620x349.gz9ir0.png/1509586048094.jpg",
+                "todo": [
+                    "Duomo di Siena",
+                    "Piazza del Campo",
+                    "Basilica Cateriniana San Domenico"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [11.3308, 43.3188] 
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "location_id": "17",
+                "placename": "Pisa, Italy",
+                "image": "https://cdn.thecrazytourist.com/wp-content/uploads/2017/09/ccimage-shutterstock_529910596.jpg",
+                "todo": [
+                    "Leaning Tower of Pisa",
+                    "Cathedral of Santa Maria Assunta",
+                    "Arno River Banks",
+                    "Piazza del Cavalieri"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [10.4017, 43.7228] 
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "location_id": "18",
+                "placename": "Florence, Italy",
+                "image": "https://i0.wp.com/passionpassport.com/wp-content/uploads/2017/10/florence-24-camilla-ignacchiti-header.jpg?resize=1068%2C743&ssl=1",
+                "todo": [
+                    "Cathedral of Santa Maria del Fiore",
+                    "David of Michelangelo",
+                    "Piazza della Signoria",
+                    "Piazzale Michelangelo"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [11.2558, 43.7696] 
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "location_id": "19",
+                "placename": "Verona, Italy",
+                "image": "https://img.travelawaits.com/filter:centercrop/quill/e/6/9/3/b/0/e693b0b3004453ff46f5a87e827a4fb544bf9b6e.jpg?w=800&h=800",
+                "todo": [
+                    "Juliet's House",
+                    "Piazza Bra",
+                    "Verona Arena",
+                    "Piazza delle Erbe"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [10.9916, 45.4384] 
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "location_id": "20",
+                "placename": "Venice, Italy",
+                "image": "https://www.followmeaway.com/wp-content/uploads/2020/02/Things-To-Do-In-Venice-Italy-Grand-Canal-800x600.jpg",
+                "todo": [
+                    "St. Mark's Basilica",
+                    "Canale Grande",
+                    "Ponte di Rialto",
+                    "Bridge of Sighs",
+                    "Burano"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [12.3155, 45.4408] 
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "location_id": "21",
+                "placename": "Nice, France",
+                "image": "https://francetravelblog.com/wp-content/uploads/2019/09/nice-travel-guide.jpg",
+                "todo": [
+                    "Promenade des Anglais",
+                    "Castle Hill",
+                    "Vieille Ville",
+                    "La Plage de Coco"
+
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [7.2620, 43.7102] 
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "location_id": "22",
+                "placename": "Barcelona, Spain",
+                "image": "https://img1.10bestmedia.com/Images/Photos/378847/GettyImages-1085317916_54_990x660.jpg",
+                "todo": [
+                    "Park Güell",
+                    "Casa Batlló",
+                    "La Rambla",
+                    "La Sagrada Família",
+                    "La Boqueria"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [2.1734, 41.3851] 
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "location_id": "23",
+                "placename": "Valencia, Spain",
+                "image": "https://d3hne3c382ip58.cloudfront.net/files/uploads/bookmundi/resized/cmsfeatured/valencia-tours-holidays-1519988330-390X219.jpg",
+                "todo": [
+                    "Ciudad de las Artes y las Ciencias",
+                    "Playa de la Malvarrosa",
+                    "Plaza de la Reina",
+                    "Jardín del Turia"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [0.3763, 39.4699] 
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "location_id": "24",
+                "placename": "Faro, Portugal",
+                "image": "https://turkishairlines.ssl.cdn.sdlmedia.com/637090705772668501FZ.jpg",
+                "todo": [
+                    "Praia de Faro",
+                    "Ria Formosa",
+                    "Igreja de Santa Maria"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-7.9304, 37.0194] 
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "location_id": "25",
+                "placename": "Lisbon, Portugal",
+                "image": "https://cms.inspirato.com/ImageGen.ashx?image=/media/9416455/lisbon-portugal_skyline_939185152.jpg&width=1200",
+                "todo": [
+
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-9.1393, 38.7223] 
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "location_id": "26",
+                "placename": "Sintra, Portugal",
+                "image": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-9.3816, 38.8029] 
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "location_id": "27",
+                "placename": "Porto, Portugal",
+                "image": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-8.6291, 41.1579] 
+            }
+        }
+    ]
+}

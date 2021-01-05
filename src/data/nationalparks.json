@@ -1,0 +1,177 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+         {
+            "type": "Feature",
+            "properties": {
+                "location_id": "01",
+                "placename": "Des Moines, IA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-93.6250, 41.5868] 
+            }
+        }, 
+        {
+            "type": "Feature",
+            "properties": {
+                "location_id": "02",
+                "placename": "Rocky Mountain National Park, CO",
+                "image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/moraine-lake-and-the-valley-of-the-ten-peaks-in-the-royalty-free-image-1571062944.jpg",
+                "todo": [
+                    "Trail Ridge Road",
+                    "Downtown Estes Park",
+                    "Bear Lake",
+                    "Emerald Lake Trail"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-105.6836, 40.3428] 
+            }
+        }, 
+        {
+            "type": "Feature",
+            "properties": {
+                "location_id": "03",
+                "placename": "Yellowstone National Park, WY",
+                "image": "https://static.toiimg.com/photo/msid-69200919,width-96,height-65.cms",
+                "todo": [
+                    "Grand Prismatic Spring",
+                    "The Old Faithful Geyser",
+                    "Lamar Valley",
+                    "Grand Canyon of the Yellowstone River"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-110.5885, 44.4280] 
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "location_id": "04",
+                "placename": "Mount Rainier National Park, WA",
+                "image": "https://i.insider.com/5d13e321b44ce765b75a8d10?width=1100&format=jpeg&auto=webp",
+                "todo": [
+                    "Sunrise Nature Trail",
+                    "Silver Falls Trail",
+                    "Paradise fields"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-121.7269, 46.8800] 
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "location_id": "05",
+                "placename": "Crater Lake National Park, OR",
+                "image": "https://pblog.hertz.com/wp-content/uploads/2018/05/img-lrg-CRATERLAKENP.jpg",
+                "todo": [
+                    "Boat tour to Wizard Island",
+                    "Drive around the lake",
+                    "Toketee Falls"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-122.1685, 42.8684] 
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "location_id": "06",
+                "placename": "Yosemite National Park, CA",
+                "image": "https://www.planetware.com/photos-large/USCA/california-yosemite-things-to-do-yosemite-falls.jpg",
+                "todo": [
+                    "Yosemite Falls",
+                    "Half Dome",
+                    "Tunnel View",
+                    "Bridalveil Fall"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-119.5383, 37.8651] 
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "location_id": "07",
+                "placename": "Death Valley National Park, CA",
+                "image": "https://images.squarespace-cdn.com/content/v1/5acd5b31f407b409c638be6a/1581712077163-FN25V5DS2LFPRACN2ZE0/ke17ZwdGBToddI8pDm48kLkXF2pIyv_F2eUT9F60jBl7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z4YTzHvnKhyp6Da-NYroOW3ZGjoBKy3azqku80C789l0iyqMbMesKd95J-X4EagrgU9L3Sa3U8cogeb0tjXbfawd0urKshkc5MgdBeJmALQKw/death-valley-lequepeys-blog-5.jpg",
+                "todo": [
+                    "Mesquite Sand Dunes",
+                    "The Racetrack",
+                    "Zabriskie Point",
+                    "Rhyolite Ghost Town"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-117.0794, 36.5054] 
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "location_id": "08",
+                "placename": "Grand Canyon National Park, CA",
+                "image": "https://www.outsideonline.com/sites/default/files/styles/img_600x600/public/2018/11/20/outside-guide-grand-canyon_s.jpg?itok=RhUTTtXd",
+                "todo": [
+                    "Rim Trail",
+                    "Havasu Falls",
+                    "Grand Canyon Skywalk",
+                    "Grand Canyon Railway"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-112.1129, 36.1069] 
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "location_id": "09",
+                "placename": "Zion National Park, UT",
+                "image": "https://specials-images.forbesimg.com/imageserve/5f403747b04e62583dae1f90/960x0.jpg?fit=scale",
+                "todo": [
+                    "Zion Canyon",
+                    "Riverside Walk",
+                    "Weeping Rock Trail",
+                    "Lower Emerald Pools"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-113.0263, 37.2982] 
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "location_id": "10",
+                "placename": "Arches National Park, UT",
+                "image": "https://media.deseretdigital.com/file/888e831813?resize=height:250&crop=top:324|left:416|width:1692|height:1411&order=crop,resize&quality=55&c=14&a=db5f1282",
+                "todo": [
+                    "Windows and Turret Arch Trail",
+                    "Delicate Arch Trail",
+                    "Park Avenue Trail",
+                    "Garden of Eden"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-109.5925, 38.7331] 
+            }
+        }
+    ]
+}
+

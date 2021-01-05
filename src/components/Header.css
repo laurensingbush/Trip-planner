@@ -1,0 +1,34 @@
+@import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
+
+:root {
+  --main-blue: #66c2ff;
+  --main-lightblue: #cce6ff;
+}
+
+.header-container {
+  background-color: var(--main-blue);
+  padding: 1rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+h1 {
+  color: white;
+}
+
+.header-para {
+  font-family: 'Lobster', sans-serif;
+  letter-spacing: 0.1rem;
+  color: var(--main-lightblue);
+}
+
+@media only screen and (min-width: 1824px) {
+  h1 {
+    font-size: 5rem;
+  }
+  .header-para {
+    font-size: 2rem;
+  }
+}

@@ -1,0 +1,108 @@
+/* .trip-stop {
+  width: 300px;
+  overflow: hidden;
+}
+
+.icon-trip-stop {
+  display: block;
+  width: 1.5em;
+  height: 1.5em;
+  background-color: orange;
+  border-radius: 100%;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.5);
+}
+
+.trip-stop-image {
+  display: block;
+  float: left;
+  overflow: hidden;
+  width: 150px;
+  height: 150px;
+  text-indent: 100%;
+  color: transparent;
+  background-position: center;
+  background-size: cover;
+} */
+
+/* @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;500&display=swap'); */
+
+/* * {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Roboto', sans-serif;
+  list-style: none;
+} */
+
+:root {
+  --main-blue: #66c2ff;
+  --main-red: #ff6666;
+}
+
+/**
+  Marker Icon
+*/
+.marker-icon {
+  display: block;
+  width: 1.5em;
+  height: 1.5em;
+  background-color: var(--main-red);
+  border-radius: 100%;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.5);
+}
+
+/**
+  Popup 
+*/
+.popup {
+  width: 250px;
+  display: flex;
+  flex-direction: row;
+}
+
+.popup-image {
+  width: 50%;
+  /* height: auto; */
+  /* margin-right: 10px; */
+  background-size: cover;
+  background-position: center;
+  margin-right: 0.5rem;
+}
+
+/* .popup-content {
+  border: 1px solid red;
+} */
+
+.popup-content > h2 {
+  font-size: 0.8rem;
+  font-weight: 500;
+}
+.popup-content > h2 + p {
+  margin-top: 0.6rem;
+}
+
+p + ul {
+  margin-top: -0.6rem;
+}
+
+.popup-content > ul {
+  margin-left: 1rem;
+}
+
+.popup-start {
+  text-align: center;
+}
+
+/* Tablets and up */
+@media only screen and (min-width: 768px) {
+  .popup {
+    width: 300px;
+  }
+}
+
+/* Hover for Desktop */
+@media (hover: hover) {
+  .marker-icon:hover {
+    background-color: #e60000;
+  }
+}
