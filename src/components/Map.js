@@ -38,7 +38,6 @@ const MyMap = () => {
                     </FeatureGroup>
                 </LayersControl.BaseLayer>
             </LayersControl>
-            {/* <Bounds /> */}
         </MapContainer>
     )
 };
