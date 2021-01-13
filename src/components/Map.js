@@ -1,7 +1,6 @@
 import React from 'react';
 import { MapContainer, TileLayer, ZoomControl, LayersControl, FeatureGroup } from 'react-leaflet';
 import Markers from './Markers';
-// import Bounds from './Bounds';
 import 'leaflet/dist/leaflet.css';
 
 import nationalparks from '../data/nationalparks.json';
